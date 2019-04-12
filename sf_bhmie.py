@@ -140,7 +140,7 @@ if __name__ == "__main__":
     print("Refractive index   :",m)
     print("Wavelength         :",wl)
     print("Particle radius    :",a)
-    print("Size parameter:    :",x)
+    print("Size parameter     :",x)
     print("")
 
     Qext, Qsca, Qbks = sf_bhmie(x,m)
